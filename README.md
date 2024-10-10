@@ -1,0 +1,3 @@
+# burcapp
+
+Horoscope App This basic level Flutter application contains a home page and a detail page using ListTile, one of Flutter's core components. Items that appear as a list on the main page are presented in more detail on the detail page when selected by the user. The app also includes a scrollable menu. To enrich the visuals, the color matching of the items is dynamically determined using the palette_generator library.
